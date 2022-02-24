@@ -1,11 +1,11 @@
-import React from 'react'
+import { useState } from 'react'
 import { ToastContainer, toast } from 'react-toastify'
 import 'react-toastify/dist/ReactToastify.css'
 
 import './App.css'
 
 const App = () => {
-  const [password, setPassword] = React.useState('**********************')
+  const [password, setPassword] = useState('**********************')
 
   const generatePassword = () => {
     const randomPassword =
