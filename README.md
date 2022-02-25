@@ -15,6 +15,12 @@ npm install // for installing all the dependencies
 npm start // for running the project
 ```
 
+## Blog url 
+https://blog.nerdjfpb.com/random-password-generator-learn-modern-react-js-for-free/
+
+## Live url
+https://nerdjfpb.github.io/react-password-gen/
+
 ## Screenshot
 
 ![Screenshot](https://github.com/nerdjfpb/react-password-gen/blob/master/screenshot.png)
